@@ -1,0 +1,36 @@
+body {
+	background-color: #f8f9fa;
+}
+
+.name {
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #004b23;
+}
+.description {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+	font-style: italic;
+}
+
+.html {
+	font-size: 12px;
+}
+
+.css {
+	font-size: 16px;
+}
+
+.javascript {
+	font-size: 22px;
+}
+
+ul {
+	list-style: none;
+}
+
+ul li a {
+	text-decoration: none;
+	color: green;
+}
