@@ -34,3 +34,37 @@ ul li a {
 	text-decoration: none;
 	color: green;
 }
+
+#name {
+	text-align: center;
+}
+
+#photo {
+	background-color: green;
+	float: left;
+	padding: .5rem;
+	margin-left: 5px;
+	margin-right: 1rem;
+}
+
+#description {
+	float: right;
+	padding: 1rem;
+
+}
+
+#skills {
+	clear: both;
+}
+
+#header {
+	display: inline-block;
+}
+
+li:nth-child(odd) {
+	color: green;
+}
+
+#main, #description {
+	border: 1px solid green;
+}
